@@ -55,5 +55,42 @@ All kod som gås igenom under lektionerna finns samlat i kursens [Github repo](h
 </details>
 
 
+## Programmering i verkligheten v6-15
+<details>
+ <summary>Klicka här för att se planering</summary>
+
+|Vecka | Avsnitt| Resurser|
+|-----|------| ------ |
+|6| Felhantering | Lägg till länk |
+|8|  Felhantering | Lägg till länk |
+|9|  Filhantering | Lägg till länk |
+|10| Filhantering  | Lägg till länk |
+|11| uppgift  | Lägg till länk |
+|12| uppgift | Lägg till länk |
+|13| Repetition | Lägg till länk |
+|15| --- | Lägg till länk |
+</details>
+
+
+## Verklighetsprojekt v16-21
+<details>
+ <summary>Klicka här för att se planering</summary>
+
+|Vecka | Avsnitt| Resurser|
+|-----|------| ------ |
+|16| Introduktion till projekt (samt val av projekt) | Lägg till länk |
+|17| Projekt  | Lägg till länk |
+|18| Projekt  | Lägg till länk |
+|19| Projekt  | Lägg till länk |
+|20| Tid för komplettering  | Lägg till länk |
+|21| Tid för komplettering  | Lägg till länk |
+
+</details>
+
+
+
+
+
+
 
 
