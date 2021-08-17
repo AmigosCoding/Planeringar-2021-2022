@@ -19,21 +19,22 @@ Efter att området är färdigt kommer relevanta länkar läggas här under rät
 ## Grunder I C# cirka 6 Veckor
 
 ## Introduktion till Webbserver
-Vad är en Webbserver
+Vad är en Webbserver  + Demo
 
 
 ## RESTFUL WEB API
-vad är REST och Hur fungerar det?
+vad är REST och Hur fungerar det? + Demo
 ## Microsoft SQL och Entity Framework Core 
-Vad är en databas? Vad är Entity Framework Core
+Vad är en databas? Vad är Entity Framework Core + Demo
 
 ## Autentisering
-Hur funkar det?
+Hur funkar det? + Demo
 
 ## Relationer med Entity Framework Core
- Olika typer av relationer som existerar i Databasen. 
+ Olika typer av relationer som existerar i Databasen.  + Demo
 
 ## Front-END
+
 
 ## Fullstack Projekt
 
